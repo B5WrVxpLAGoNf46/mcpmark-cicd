@@ -1,5 +1,4 @@
-const unusedVar = "hello";
-console.log("This has double quotes and no semicolon")
+console.log('This has single quotes and a semicolon');
 function test() {
   let x = 5;
   return x;
